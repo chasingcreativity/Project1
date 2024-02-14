@@ -74,7 +74,7 @@ function draw()
 	strokeWeight(1);
 	stroke(0);
 	fill(0);
-	text("WILL YOU BE MY VALON-TINE?", width / 2, height / 2 - noButton.dia + 100);
+	text("WILL YOU BE MY VALENTINE?", width / 2, height / 2 - noButton.dia + 100);
     
     // yes screen
     if (yesButton.activated == true)
